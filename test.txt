@@ -1,1 +1,1 @@
-"Questa riga e stata scritta da MASTER" 
+Versione finale: Ho risolto il conflitto.
