@@ -1,5 +1,1 @@
-"Prima versione" 
-"Seconda versione" 
-"Terza versione" 
-"Quarta versione (da fastForward)" 
-"Modifica fatta su recursiveBranch" 
+"Questa riga e stata scritta da MASTER" 
